@@ -23,6 +23,9 @@ header {
     border-bottom: 3px solid blue;
     color: whitesmoke;
     margin-bottom: 20px;
+    font-family: "Amarante", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 header img {
     border-radius: 50vh;
@@ -37,6 +40,9 @@ header img {
 #nav_list ul {
     position: sticky;
     top: 20px;
+    font-family: "Amarante", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 #nav_list li {
     margin-bottom: 20px;
@@ -88,11 +94,19 @@ footer {
     border-left: 25px solid #258308;
     padding-left: 10px;
     max-width: 75%;
+    font-family: "Amarante", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 article h4 {
     font-size: 200%;
+    margin: 15px;
+    font-family: "Amarante", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 /* set font family */
+
 
 /* media queries */
 @media (max-width: 767px) {
